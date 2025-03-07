@@ -1,0 +1,5 @@
+C:\Kevin\GameStore\GameStore.FrontEnd\obj\Debug\net8.0\GameStore.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kevin\GameStore\GameStore.FrontEnd\obj\Debug\net8.0\GameStore.FrontEnd.AssemblyInfoInputs.cache
+C:\Kevin\GameStore\GameStore.FrontEnd\obj\Debug\net8.0\GameStore.FrontEnd.AssemblyInfo.cs
+C:\Kevin\GameStore\GameStore.FrontEnd\obj\Debug\net8.0\GameStore.FrontEnd.csproj.CoreCompileInputs.cache
+C:\Kevin\GameStore\GameStore.FrontEnd\obj\Debug\net8.0\GameStore.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
