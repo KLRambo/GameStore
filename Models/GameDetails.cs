@@ -9,7 +9,7 @@ public class GameDetails
     public required string Name { get; set; }
     [Required(ErrorMessage = "Genre is required.")]
     public string? GenreId { get; set; }
-    [Range(1,100)]
+    [Range(1, 100)]
     public decimal Price { get; set; }
     public DateOnly ReleaseDate { get; set; }
 }
